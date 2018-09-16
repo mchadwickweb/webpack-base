@@ -1,0 +1,13 @@
+$background-color: #efefef;
+
+body {
+  background-color: $background-color;
+  color: #333333;
+  margin: 0;
+}
+
+body > div {
+  max-width: 50em;
+  padding: 2em;
+  margin: 0 auto;
+}
